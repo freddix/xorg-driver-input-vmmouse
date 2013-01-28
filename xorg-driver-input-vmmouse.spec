@@ -1,11 +1,11 @@
 Summary:	VMMouse protocol for VMware virtual machines
 Name:		xorg-driver-input-vmmouse
-Version:	12.9.0
+Version:	13.0.0
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-vmmouse-%{version}.tar.bz2
-# Source0-md5:	2b3bfea9ba1f73d9d68bddd0d6b20112
+# Source0-md5:	34f9f64ee6a1a51fc8266a9af24e1e07
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
